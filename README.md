@@ -18,15 +18,15 @@ Hi there! I'm a passionate mobile app developer focused on building fast, beauti
 
 ## 🌱 Currently Learning
 
-- Advanced animations & gesture handling in React Native  
-- Secure file handling and encryption  
+- Advanced animations  
 - Performance optimization for large-scale apps
+- **App security** and best practices for protecting user data
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/saddam-husain-26b78ba4/))  
 - 🌐 [Portfolio](https://yourwebsite.com)  
-- 📬 Reach me at: your@email.com
+- 📬 Reach me at: saddam0072@gmail.com
 
 ---
 
